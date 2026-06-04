@@ -68,15 +68,6 @@ https://github.com/user-attachments/assets/30d9ae4b-e60a-4015-bea3-3a52c3d0f99e
 
 
 
-<sub>
-Song <a href="https://youtu.be/NamuKG4vLjQ?si=wbAgr8imM6TyGtJX">from...</a>
-</sub>
-
-
-
-https://github.com/user-attachments/assets/10cc032c-5bec-4e75-8ef0-5925585a18c1
-
-
 
 <sub>Song <a href="https://youtu.be/rmJlVtUyy2Q?si=2UxU9x6cGUiInZhf">from...</a> An OST from YASO curse of sorée
 
