@@ -25,7 +25,7 @@
 <details>
 <summary>Random songs from my Playlist (dropdown menu)</summary>
 <br>
-<h6 align="center">Will add more when I feel like it (these are MOV files because audio is not supported. It's probably muted so unmute it before playing).</h6>
+<h6 align="center">Will add more when I feel like it. I replaced the MOV files with the actual MP4 since the MOV files doesn't stay up for too long in here, so I'm hoping MP4 would be better. I also removed the other songs I put in here before because the file size was too large. I'll come back to re-add them soon</h6>
 
 <sub>
 Song <a href="https://youtu.be/vcAd6zFbq5I?si=253R6JyXqcJLzLQe">from...</a>
@@ -33,7 +33,11 @@ Song <a href="https://youtu.be/vcAd6zFbq5I?si=253R6JyXqcJLzLQe">from...</a>
 
 
 
-https://github.com/user-attachments/assets/28aed5a0-ecb0-4dbc-ab6e-d850e60c895c
+
+
+https://github.com/user-attachments/assets/34147b2f-dac7-4a4d-879a-92e46a4ef84b
+
+
 
 
 
@@ -44,26 +48,12 @@ Cover <a href="https://youtu.be/04ptzLdlGIY?si=K73h2OsdIXgHKfD1">by...</a>
 
 
 
-https://github.com/user-attachments/assets/f0d51efe-2758-433d-80fc-1f73a4e1aa11
 
-
-
-<sub>Cover <a href="https://youtu.be/KWK_CUgyLFs?si=HZYX_7UWEal1x5pP">by</a></sub>
-
+https://github.com/user-attachments/assets/61d8571e-e574-4c49-8a86-97a6aed66a65
 
 
 
 
-https://github.com/user-attachments/assets/7c89ff02-ed9b-4cda-964a-19ac7c48e2a3
-
-
-
-<sub>Cover <a href="https://youtu.be/zh_rhZKNobA?si=aWbH_7nfp4svyVGS">by...</sub>
-
-
-
-
-https://github.com/user-attachments/assets/30d9ae4b-e60a-4015-bea3-3a52c3d0f99e
 
 
 
@@ -75,18 +65,11 @@ https://github.com/user-attachments/assets/30d9ae4b-e60a-4015-bea3-3a52c3d0f99e
 
 
 
-https://github.com/user-attachments/assets/c36ee416-2be2-42f0-9f7a-06bb876fae8b
 
 
+https://github.com/user-attachments/assets/1c59e471-1ca8-45f3-8aca-ec1b05d2b279
 
 
-
-<sub>OST from Honaki: Star Rail</sub>
-
-
-
-
-https://github.com/user-attachments/assets/96ce67e8-bb08-476b-b616-8103072bf87d
 
 
 
