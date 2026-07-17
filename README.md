@@ -79,7 +79,7 @@ https://github.com/user-attachments/assets/1c59e471-1ca8-45f3-8aca-ec1b05d2b279
 <br>
 <details>
   <summary>Useful Links I Found/Like</summary>
-  <a href=https://grid-noise-animator.vercel.app/en.html>Allows you to add a noise filter to yousuprgettingtworks and turn it into MP4 or GIFs.</a>
+  <a href=https://grid-noise-animator.vercel.app/en.html>Allows you to add a noise filter to your images/artworks and turn it into MP4 or GIFs.</a>
 </details>
 
 
