@@ -81,12 +81,7 @@ https://github.com/user-attachments/assets/1c59e471-1ca8-45f3-8aca-ec1b05d2b279
   <summary>Useful Links I Found/Like</summary>
   <a href=https://grid-noise-animator.vercel.app/en.html>Allows you to add a noise filter to your images/artworks and turn it into MP4 or GIFs.</a>
 </details>
-
-
-
-
-
-
+<br>
 <sup> I keep forgetting ReadMe uses limited HTML and I was basically coding something cool with other HTMLs that are not supported. It took me from 12-3AM to realize it 😭😭😭 Now I made so many commits in one night and I'm hungry pls help. What's even worse is I'm doing everything on mobile and it SUCKS SO BAD. Cuz wdym every time I press a different row, a word before that gets copypasted or duplicated or something. It made me redo a lot of things again and againsince I literally used some links here.
 </sup>
 
