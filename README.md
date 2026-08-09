@@ -100,3 +100,14 @@ https://github.com/user-attachments/assets/ae218bd5-b05b-4ab2-b5c6-b35f4e57501b
 <sup> I keep forgetting ReadMe uses limited HTML and I was basically coding something cool with other HTMLs that are not supported. It took me from 12-3AM to realize it 😭😭😭 Now I made so many commits in one night and I'm hungry pls help. What's even worse is I'm doing everything on mobile and it SUCKS SO BAD. Cuz wdym every time I press a different row, a word before that gets copypasted or duplicated or something. It made me redo a lot of things again and againsince I literally used some links here.
 </sup>
 
+<!--- 
+| Song/Remix/Cover | Creator | Link | 
+| --- | --- | --- |
+| MP4 | ANATHEMA | https://youtu.be/m1COeW5KYWc?si=eybYOu_4fh1SCt_a |
+| Pinakanakaka | Dasu | https://youtu.be/WFTtlevKTnA?si=DIsalmFX-QikmX34 |
+| pitumput | Dasu | https://youtu.be/g5yZfM4YbYY?si=-WHgp_bUAesDm5rl |
+| Annoyance | DEMONDICE | https://youtu.be/r0XRI0krLxA?si=MssirKHB_XRfdI-y |
+| Rainbow Factory | WoodenToaster | https://youtu.be/YRx_iXgLAyw?si=ww1n-g5R0LefitDG |
+| sweetheart | carrot113 | https://youtu.be/AZmminJ9pZo?si=eFnwtaMjOUBc3IUJ |
+| MARENOIA | Optie Animations | https://youtu.be/yUUXvhN8-74?si=1ETaIPnToimQZYpG |
+ ---!>
